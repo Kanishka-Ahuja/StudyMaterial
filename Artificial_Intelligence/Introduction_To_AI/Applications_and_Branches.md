@@ -105,6 +105,6 @@ Data -> Preprocessing -> Training -> Optimization -> Machine Learning Model
   * The programs are encoded as a set of genes.
   * An algorithm is used to get a program that performs the given task very well.
 
-[Prev : Introduction to AI](https://github.com/Kanishka-Ahuja/StudyMaterial/wiki/Introduction-to-AI) 
+[Prev : AI And Its Need](https://github.com/Kanishka-Ahuja/StudyMaterial/wiki/AI-And-Its-Need) 
 <br>
 [Next : Defining Intelligence Using Turing Test](https://github.com/Kanishka-Ahuja/StudyMaterial/wiki/Defining-Intelligence-Using-Turing-Test)
