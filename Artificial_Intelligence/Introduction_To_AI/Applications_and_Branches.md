@@ -104,3 +104,7 @@ Data -> Preprocessing -> Training -> Optimization -> Machine Learning Model
   * Genetic programming is a way to get programs to solve a task by mating the programs and selecting the fittest.
   * The programs are encoded as a set of genes.
   * An algorithm is used to get a program that performs the given task very well.
+
+[Prev : Introduction to AI](https://github.com/Kanishka-Ahuja/StudyMaterial/wiki/Introduction-to-AI) 
+<br>
+[Next : Defining Intelligence Using Turing Test](https://github.com/Kanishka-Ahuja/StudyMaterial/wiki/Defining-Intelligence-Using-Turing-Test)
