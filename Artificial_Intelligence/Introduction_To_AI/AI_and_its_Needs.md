@@ -38,9 +38,8 @@
 ----
 
 ## Conversion of Raw Data to Wisdom
-
-Data -Processed-> Information -Cognition-> Knowledge -Pattern Extraction-> Understanding -Inheritance-> Intelligence
-
+**Data** -_Processed_-> **Information** -_Cognition_-> **Knowledge** -_Pattern Extraction_-> **Understanding** -_Inheritance_-> **Intelligence**
+<br><br>
 Data is processed and gets converted into information which when understood becomes knowledge and when we extract the pattern of this knowledge we understand it, which when understood gives intelligence.
 (Which when you try to do this with machine you see that it falls way behind.)
 
@@ -71,3 +70,5 @@ Data is processed and gets converted into information which when understood beco
         * Thinking and responding to situations based on real-time conditions.
 * **Improving Existing Machines:**
     * Artificial intelligence techniques are actively being used to make existing machines smarter so that they can execute faster and more efficiently.
+
+[Next : Applications and Branches of AI](https://github.com/Kanishka-Ahuja/StudyMaterial/wiki/Applications-and-Branches-of-AI)
